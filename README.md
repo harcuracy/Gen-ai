@@ -9,3 +9,7 @@ The tokenization model was from hugginface
 - Groq api key
 - huggingface api key [optional]
 
+## Optional part
+To call your api key you can use .env file
+
+
